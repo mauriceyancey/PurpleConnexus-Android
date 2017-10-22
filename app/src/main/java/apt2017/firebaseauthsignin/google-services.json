@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "1022362074688",
+    "firebase_url": "https://purpleconnexus.firebaseio.com",
+    "project_id": "purpleconnexus",
+    "storage_bucket": "purpleconnexus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022362074688:android:754b9b6830f10c5a",
+        "android_client_info": {
+          "package_name": "apt2017.androidpurpleconnexus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022362074688-ts33a5jv47cthm698c8rc5bnqmf5697b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "apt2017.androidpurpleconnexus",
+            "certificate_hash": "6c6676bed7eba00e9bbeaa18eefe2a4a148cc0d0"
+          }
+        },
+        {
+          "client_id": "1022362074688-3m677qij98bda9cdg5dd4t25ogq2ktg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP0INj5o72z9gB6k9zqXi-Wvhj56nfU5A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022362074688-3m677qij98bda9cdg5dd4t25ogq2ktg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022362074688:android:ca31c266cf9dbf1c",
+        "android_client_info": {
+          "package_name": "apt2017.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022362074688-lj4gic0cge205h5emq8kga3j68gicfd9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "apt2017.firebasetest",
+            "certificate_hash": "6c6676bed7eba00e9bbeaa18eefe2a4a148cc0d0"
+          }
+        },
+        {
+          "client_id": "1022362074688-3m677qij98bda9cdg5dd4t25ogq2ktg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP0INj5o72z9gB6k9zqXi-Wvhj56nfU5A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022362074688-3m677qij98bda9cdg5dd4t25ogq2ktg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022362074688:android:f0610fe131a38ad4",
+        "android_client_info": {
+          "package_name": "apt2017.firebasesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022362074688-emh4qe4id3dgsbfb772428t7s24k3up4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "apt2017.firebasesignin",
+            "certificate_hash": "6c6676bed7eba00e9bbeaa18eefe2a4a148cc0d0"
+          }
+        },
+        {
+          "client_id": "1022362074688-3m677qij98bda9cdg5dd4t25ogq2ktg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP0INj5o72z9gB6k9zqXi-Wvhj56nfU5A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022362074688-3m677qij98bda9cdg5dd4t25ogq2ktg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022362074688:android:b8355a8715648044",
+        "android_client_info": {
+          "package_name": "apt2017.firebaseauthsignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022362074688-uq0enkkv99u1c5h35vimrbdut6gg43r1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "apt2017.firebaseauthsignin",
+            "certificate_hash": "6c6676bed7eba00e9bbeaa18eefe2a4a148cc0d0"
+          }
+        },
+        {
+          "client_id": "1022362074688-3m677qij98bda9cdg5dd4t25ogq2ktg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP0INj5o72z9gB6k9zqXi-Wvhj56nfU5A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022362074688-3m677qij98bda9cdg5dd4t25ogq2ktg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
